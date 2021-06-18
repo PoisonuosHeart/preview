@@ -1,0 +1,21 @@
+.afterNav {
+  background-color: #ddb100;
+}
+
+.row,
+.prntRow > .row {
+  margin-bottom: 0;
+  border-bottom-left-radius: 35%;
+  border-bottom-right-radius: 35%;
+}
+
+.art {
+  color: #3c7963;
+}
+
+.footerLabel {
+  background-color: #ddb100;
+  border-top-left-radius: 35%;
+  border-top-right-radius: 35%;
+  color: #3c7963;
+}

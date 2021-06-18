@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://poisonousshadow:26091998DiGod@cluster0.nt4vs.mongodb.net/fortest?retryWrites=true&w=majority",
+    "secret": "Anime",
+    "baseUrl": "http://localhost:5000"
+}
